@@ -1,0 +1,20 @@
+[10-Apr-2022 20:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/ashk/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/bootstrap/app.php on line 14
+[11-Apr-2022 19:22:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/ashk/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/bootstrap/app.php on line 14
+[11-Apr-2022 19:22:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/ashk/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/bootstrap/app.php on line 14
+[13-Apr-2022 22:10:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/ashk/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/bootstrap/app.php on line 14
+[17-Apr-2022 21:49:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/ashk/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/bootstrap/app.php on line 14

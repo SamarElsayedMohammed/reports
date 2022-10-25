@@ -1,0 +1,4 @@
+[15-Apr-2022 14:23:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function app() in /home/ashk/public_html/Modules/Superadmin/start.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/Modules/Superadmin/start.php on line 14

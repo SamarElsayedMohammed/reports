@@ -1,0 +1,12 @@
+[11-Apr-2022 05:13:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/ashk/public_html/database/factories/ModelFactory.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/factories/ModelFactory.php on line 17
+[13-Apr-2022 05:32:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/ashk/public_html/database/factories/ModelFactory.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/factories/ModelFactory.php on line 17
+[17-Apr-2022 08:56:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/ashk/public_html/database/factories/ModelFactory.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/factories/ModelFactory.php on line 17

@@ -1,0 +1,4 @@
+[18-Apr-2022 11:22:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/ashk/public_html/Modules/Woocommerce/Database/Migrations/2019_10_01_171828_add_woocommerce_media_id_columns.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/Modules/Woocommerce/Database/Migrations/2019_10_01_171828_add_woocommerce_media_id_columns.php on line 7

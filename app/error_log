@@ -1,0 +1,296 @@
+[11-Apr-2022 19:20:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/CustomerGroup.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/CustomerGroup.php on line 7
+[11-Apr-2022 19:20:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/PurchaseLine.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/PurchaseLine.php on line 7
+[11-Apr-2022 19:20:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Variation.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Variation.php on line 8
+[11-Apr-2022 19:20:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/ProductVariation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/ProductVariation.php on line 7
+[11-Apr-2022 19:20:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/TaxRate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/TaxRate.php on line 8
+[11-Apr-2022 19:20:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/ashk/public_html/app/User.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/User.php on line 14
+[11-Apr-2022 19:20:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Account.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Account.php on line 11
+[11-Apr-2022 19:20:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/AccountType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/AccountType.php on line 7
+[11-Apr-2022 19:20:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/TransactionSellLine.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/TransactionSellLine.php on line 7
+[11-Apr-2022 19:20:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/SellingPriceGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/SellingPriceGroup.php on line 8
+[11-Apr-2022 19:20:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Product.php on line 7
+[11-Apr-2022 19:20:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/DocumentAndNote.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/DocumentAndNote.php on line 8
+[11-Apr-2022 19:20:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Media.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Media.php on line 8
+[11-Apr-2022 19:20:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Barcode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Barcode.php on line 7
+[11-Apr-2022 19:21:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Category.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Category.php on line 9
+[11-Apr-2022 19:21:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/DashboardConfiguration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/DashboardConfiguration.php on line 7
+[11-Apr-2022 19:22:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Warranty.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Warranty.php on line 7
+[11-Apr-2022 19:22:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/TransactionPayment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/TransactionPayment.php on line 9
+[11-Apr-2022 19:22:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/PaymentAccount.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/PaymentAccount.php on line 8
+[11-Apr-2022 19:22:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/StockAdjustmentLine.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/StockAdjustmentLine.php on line 7
+[11-Apr-2022 19:22:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/ExpenseCategory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/ExpenseCategory.php on line 8
+[11-Apr-2022 19:22:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Transaction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Transaction.php on line 7
+[11-Apr-2022 19:22:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/NotificationTemplate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/NotificationTemplate.php on line 7
+[11-Apr-2022 19:22:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/ReferenceCount.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/ReferenceCount.php on line 7
+[11-Apr-2022 19:22:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/GroupSubTax.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/GroupSubTax.php on line 7
+[11-Apr-2022 19:22:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/VariationValueTemplate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/VariationValueTemplate.php on line 7
+[11-Apr-2022 19:22:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/BusinessLocation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/BusinessLocation.php on line 10
+[11-Apr-2022 19:22:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/VariationTemplate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/VariationTemplate.php on line 7
+[11-Apr-2022 19:23:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Unit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Unit.php on line 9
+[11-Apr-2022 19:23:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/ProductRack.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/ProductRack.php on line 7
+[11-Apr-2022 19:23:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/AccountTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/AccountTransaction.php on line 9
+[11-Apr-2022 19:23:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/TransactionSellLinesPurchaseLines.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/TransactionSellLinesPurchaseLines.php on line 7
+[11-Apr-2022 19:23:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/ashk/public_html/app/Contact.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Contact.php on line 11
+[11-Apr-2022 19:23:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/InvoiceLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/InvoiceLayout.php on line 7
+[11-Apr-2022 19:23:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Brands.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Brands.php on line 8
+[11-Apr-2022 19:23:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/UserContactAccess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/UserContactAccess.php on line 7
+[11-Apr-2022 19:24:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/TypesOfService.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/TypesOfService.php on line 7
+[11-Apr-2022 19:24:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Business.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Business.php on line 7
+[11-Apr-2022 19:24:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/InvoiceScheme.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/InvoiceScheme.php on line 7
+[11-Apr-2022 19:24:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/System.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/System.php on line 7
+[11-Apr-2022 19:24:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Currency.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Currency.php on line 7
+[11-Apr-2022 19:24:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/CashRegister.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/CashRegister.php on line 7
+[11-Apr-2022 19:25:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/VariationLocationDetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/VariationLocationDetails.php on line 7
+[11-Apr-2022 19:25:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Discount.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Discount.php on line 7
+[11-Apr-2022 19:25:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Printer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Printer.php on line 7
+[11-Apr-2022 19:25:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/CashRegisterTransaction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/CashRegisterTransaction.php on line 7
+[11-Apr-2022 19:25:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/VariationGroupPrice.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/VariationGroupPrice.php on line 7
+[11-Apr-2022 20:05:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Warranty.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Warranty.php on line 7
+[15-Apr-2022 04:09:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/TransactionPayment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/TransactionPayment.php on line 9
+[15-Apr-2022 12:53:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/TaxRate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/TaxRate.php on line 8
+[15-Apr-2022 20:56:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Unit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Unit.php on line 9
+[15-Apr-2022 23:21:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/System.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/System.php on line 7
+[16-Apr-2022 00:46:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/ProductVariation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/ProductVariation.php on line 7
+[16-Apr-2022 01:45:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Currency.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Currency.php on line 7
+[16-Apr-2022 05:51:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Business.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Business.php on line 7
+[16-Apr-2022 06:28:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/BusinessLocation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/BusinessLocation.php on line 10
+[16-Apr-2022 06:39:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/InvoiceScheme.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/InvoiceScheme.php on line 7
+[16-Apr-2022 06:57:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/CustomerGroup.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/CustomerGroup.php on line 7
+[16-Apr-2022 07:14:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/TransactionSellLinesPurchaseLines.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/TransactionSellLinesPurchaseLines.php on line 7
+[16-Apr-2022 14:15:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Category.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Category.php on line 9
+[16-Apr-2022 14:38:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/PaymentAccount.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/PaymentAccount.php on line 8
+[16-Apr-2022 15:53:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/Barcode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Barcode.php on line 7
+[16-Apr-2022 17:26:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/UserContactAccess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/UserContactAccess.php on line 7
+[16-Apr-2022 19:09:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/AccountType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/AccountType.php on line 7
+[16-Apr-2022 19:24:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/NotificationTemplate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/NotificationTemplate.php on line 7
+[16-Apr-2022 20:53:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/SellingPriceGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/SellingPriceGroup.php on line 8
+[18-Apr-2022 02:00:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/VariationTemplate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/VariationTemplate.php on line 7
+[19-Apr-2022 01:45:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/DashboardConfiguration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/DashboardConfiguration.php on line 7
+[19-Apr-2022 19:43:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/UserContactAccess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/UserContactAccess.php on line 7
+[19-Apr-2022 19:43:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/ashk/public_html/app/Contact.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Contact.php on line 11
+[19-Apr-2022 19:43:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/UserContactAccess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/UserContactAccess.php on line 7
+[19-Apr-2022 19:43:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/ashk/public_html/app/UserContactAccess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/UserContactAccess.php on line 7
+[19-Apr-2022 19:43:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/ashk/public_html/app/Contact.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Contact.php on line 11
+[19-Apr-2022 19:43:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/ashk/public_html/app/Contact.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/app/Contact.php on line 11

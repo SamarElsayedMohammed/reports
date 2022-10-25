@@ -1,0 +1,96 @@
+[11-Apr-2022 19:20:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ashk/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/filesystems.php on line 16
+[11-Apr-2022 19:20:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ashk/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/queue.php on line 16
+[11-Apr-2022 19:20:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/ashk/public_html/config/modules.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/modules.php on line 27
+[11-Apr-2022 19:20:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function public_path() in /home/ashk/public_html/config/barcode.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/barcode.php on line 4
+[11-Apr-2022 19:20:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ashk/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/broadcasting.php on line 18
+[11-Apr-2022 19:20:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ashk/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/mail.php on line 19
+[11-Apr-2022 19:21:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ashk/public_html/config/datatables.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/datatables.php on line 72
+[11-Apr-2022 19:21:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function public_path() in /home/ashk/public_html/config/backup.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/backup.php on line 21
+[11-Apr-2022 19:21:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ashk/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/cache.php on line 21
+[11-Apr-2022 19:22:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ashk/public_html/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/paypal.php on line 8
+[11-Apr-2022 19:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ashk/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/session.php on line 21
+[11-Apr-2022 19:22:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ashk/public_html/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/logging.php on line 19
+[11-Apr-2022 19:22:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ashk/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/database.php on line 18
+[11-Apr-2022 19:22:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/ashk/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/view.php on line 17
+[11-Apr-2022 19:23:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ashk/public_html/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/app.php on line 15
+[11-Apr-2022 19:23:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/ashk/public_html/config/debugbar.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/debugbar.php on line 37
+[11-Apr-2022 19:23:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ashk/public_html/config/passport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/passport.php on line 16
+[11-Apr-2022 19:23:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ashk/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/hashing.php on line 32
+[11-Apr-2022 19:24:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ashk/public_html/config/pesapal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/pesapal.php on line 7
+[11-Apr-2022 19:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ashk/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/services.php on line 18
+[11-Apr-2022 19:25:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/ashk/public_html/config/log-viewer.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/log-viewer.php on line 12
+[11-Apr-2022 19:25:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ashk/public_html/config/constants.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/constants.php on line 55
+[11-Apr-2022 19:25:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ashk/public_html/config/author.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/author.php on line 22
+[11-Apr-2022 19:26:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ashk/public_html/config/activitylog.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/config/activitylog.php on line 8

@@ -1,0 +1,64 @@
+[17-Apr-2022 09:09:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/ashk/public_html/database/migrations/2019_05_14_091812_add_show_image_column_to_invoice_layouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/migrations/2019_05_14_091812_add_show_image_column_to_invoice_layouts_table.php on line 7
+[17-Apr-2022 09:43:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/ashk/public_html/database/migrations/2018_04_03_103037_add_contact_id_to_contacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/migrations/2018_04_03_103037_add_contact_id_to_contacts_table.php on line 7
+[18-Apr-2022 00:07:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/ashk/public_html/database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php on line 7
+[18-Apr-2022 00:59:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/ashk/public_html/database/migrations/2019_06_18_135524_add_permission_to_view_own_sales_only.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/migrations/2019_06_18_135524_add_permission_to_view_own_sales_only.php on line 6
+[18-Apr-2022 01:23:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/ashk/public_html/database/migrations/2018_01_08_104124_create_expense_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/migrations/2018_01_08_104124_create_expense_categories_table.php on line 7
+[18-Apr-2022 09:26:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/ashk/public_html/database/migrations/2021_03_03_162021_add_purchase_order_columns_to_purchase_lines_and_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/migrations/2021_03_03_162021_add_purchase_order_columns_to_purchase_lines_and_transactions_table.php on line 7
+[18-Apr-2022 09:41:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/ashk/public_html/database/migrations/2018_11_02_171949_change_card_type_column_to_varchar_in_transaction_payments_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/migrations/2018_11_02_171949_change_card_type_column_to_varchar_in_transaction_payments_table.php on line 8
+[18-Apr-2022 10:27:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/ashk/public_html/database/migrations/2018_01_31_125836_create_cash_register_transactions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/migrations/2018_01_31_125836_create_cash_register_transactions_table.php on line 7
+[18-Apr-2022 12:29:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/ashk/public_html/database/migrations/2017_07_26_083429_create_permission_tables.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/migrations/2017_07_26_083429_create_permission_tables.php on line 6
+[18-Apr-2022 12:35:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/ashk/public_html/database/migrations/2018_05_14_164754_add_opening_stock_permission.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/migrations/2018_05_14_164754_add_opening_stock_permission.php on line 8
+[18-Apr-2022 13:06:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/ashk/public_html/database/migrations/2020_09_07_171059_change_completed_stock_transfer_status_to_final.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/migrations/2020_09_07_171059_change_completed_stock_transfer_status_to_final.php on line 8
+[18-Apr-2022 13:27:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/ashk/public_html/database/migrations/2018_03_31_140921_update_transactions_table_exchange_rate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/migrations/2018_03_31_140921_update_transactions_table_exchange_rate.php on line 7
+[19-Apr-2022 00:58:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/ashk/public_html/database/migrations/2018_06_05_111905_modify_products_table_for_modifiers.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/migrations/2018_06_05_111905_modify_products_table_for_modifiers.php on line 8
+[19-Apr-2022 01:03:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/ashk/public_html/database/migrations/2018_10_31_180559_add_auto_send_sms_column_to_notification_templates_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/migrations/2018_10_31_180559_add_auto_send_sms_column_to_notification_templates_table.php on line 7
+[19-Apr-2022 01:56:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/ashk/public_html/database/migrations/2019_02_21_120324_add_discount_id_column_to_transaction_sell_lines_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/migrations/2019_02_21_120324_add_discount_id_column_to_transaction_sell_lines_table.php on line 7
+[19-Apr-2022 02:27:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/ashk/public_html/database/migrations/2017_11_23_181237_create_invoice_schemes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/database/migrations/2017_11_23_181237_create_invoice_schemes_table.php on line 7

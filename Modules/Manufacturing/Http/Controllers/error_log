@@ -1,0 +1,8 @@
+[18-Apr-2022 01:55:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/ashk/public_html/Modules/Manufacturing/Http/Controllers/InstallController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/Modules/Manufacturing/Http/Controllers/InstallController.php on line 14
+[18-Apr-2022 10:11:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/ashk/public_html/Modules/Manufacturing/Http/Controllers/SettingsController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ashk/public_html/Modules/Manufacturing/Http/Controllers/SettingsController.php on line 13
